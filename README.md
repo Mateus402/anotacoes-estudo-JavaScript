@@ -5,8 +5,8 @@ Esse é um repositório onde irei armazenar anotações referentes aos estudos d
 Está dividido em alguns tópicos:
 
 - JavaScript
-  - [Classes](https://github.com/Mateus402/anotacoes-estudo-JavaScript/blob/main/Classes/readme.md)
-  - [Objetos](https://github.com/Mateus402/anotacoes-estudo-JavaScript/blob/main/Objetos/readme.md)
+  - [Classes](https://github.com/Mateus402/anotacoes-estudos-gerais/blob/main/JavaScript/Classes/Classes.md)
+  - [Objetos](https://github.com/Mateus402/anotacoes-estudos-gerais/blob/main/JavaScript/Objetos/Objetos.md)
   - [Funções](https://github.com/Mateus402/anotacoes-estudos-gerais/blob/main/JavaScript/Fun%C3%A7%C3%B5es/Funcoes.md)
 <br>
 
