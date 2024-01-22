@@ -1,4 +1,4 @@
-﻿# Estudando JavaScript
+﻿# Repositório de Estudos Gerais - Escola DNC
 
 Esse é um repositório onde irei armazenar anotações referentes aos estudos de JavaScript
 
