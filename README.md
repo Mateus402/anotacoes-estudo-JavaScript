@@ -19,6 +19,10 @@ Está dividido em alguns tópicos:
   - [Introdução](https://github.com/Mateus402/anotacoes-estudos-gerais/blob/main/Scrum/IntroducaoMetodosAgeis.md)
 
 - Documentação
+  - [Documentação](https://github.com/Mateus402/anotacoes-estudos-gerais/blob/main/Documenta%C3%A7%C3%A3o/Documentacao.md)
+
+- Git | GitHub
+  - [Git](https://github.com/Mateus402/anotacoes-estudos-gerais/blob/main/Git%20e%20GitHub/Git.md)
 
 ### Documentações para consulta
 
