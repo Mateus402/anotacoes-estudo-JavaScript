@@ -13,3 +13,9 @@ Está dividido em alguns tópicos:
 - Scrum
   - [Introdução](https://github.com/Mateus402/anotacoes-estudos-gerais/blob/main/Scrum/IntroducaoMetodosAgeis.md)
 
+
+### Documentações para consulta
+
+[W3School](https://www.w3schools.com/)
+
+[Mozila](https://developer.mozilla.org/pt-BR/docs/Web)
