@@ -1,6 +1,6 @@
 ﻿# Repositório de Estudos Gerais - Escola DNC
 
-Esse é um repositório onde irei armazenar anotações referentes aos estudos de modo geral
+Esse é um repositório onde irei armazenar anotações referentes aos estudos de modo geral. Aqui ficará o registro de alguns pontos especifícos.
 
 Está dividido em alguns tópicos:
 
@@ -18,9 +18,14 @@ Está dividido em alguns tópicos:
 - Scrum
   - [Introdução](https://github.com/Mateus402/anotacoes-estudos-gerais/blob/main/Scrum/IntroducaoMetodosAgeis.md)
 
+- Documentação
 
 ### Documentações para consulta
 
-[W3School](https://www.w3schools.com/)
+- JavaScript | HTML | CSS
+  - [W3School](https://www.w3schools.com/)
 
-[Mozila](https://developer.mozilla.org/pt-BR/docs/Web)
+  - [Mozila](https://developer.mozilla.org/pt-BR/docs/Web)
+
+- GitFlow
+  - [Atlassian](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
