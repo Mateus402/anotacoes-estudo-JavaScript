@@ -4,6 +4,10 @@ Programação assícrona é basicamente as funções que não são executadas ne
 
 ### Promise
 Um objeto que representa o resultado futuro de um comando assíncrono. É basicamente uma promessa do que vai acontecer.
+Existem metodos que pode ser usado como promise:
+- then() - Ela vai ser executada quando a promise for aceita, ou seja, quando deu certo.
+- Catch() -  Quando algo da errado ele lança uma exceção e o Catch é executado.
+- Finally() - recebe uma função de callback, ela é executada no final independente do resultado.
 
 ### Callback
 Quando uma requisição é finalizada existe uma função de callback, que determina o que é pra fazer dependendo do resultado do comando.
@@ -23,7 +27,7 @@ Exemplo prático:
 const myTymeout = setTimeout(myGreeting, 5000);
 ```
 
-Obs: para encerrar um timeout utilizasse cclearTimeout.
+Obs: para encerrar um timeout utilizasse clearTimeout.
 
 ```javascript
 function stopFunction() {
