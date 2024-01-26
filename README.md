@@ -17,7 +17,7 @@ Está dividido em alguns tópicos:
 
 
 - Protocolo
-  [HTTP](https://github.com/Mateus402/anotacoes-estudos-gerais/blob/main/Protocolo/HTTP.md)
+  - [HTTP](https://github.com/Mateus402/anotacoes-estudos-gerais/blob/main/Protocolo/HTTP.md)
 
 - Scrum
   - [Introdução](https://github.com/Mateus402/anotacoes-estudos-gerais/blob/main/Scrum/IntroducaoMetodosAgeis.md)
